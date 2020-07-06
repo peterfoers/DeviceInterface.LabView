@@ -23,6 +23,7 @@
 			<Item Name="ScopeGUI.vi" Type="VI" URL="../Examples/ScopeGUI.vi"/>
 		</Item>
 		<Item Name="LabNation Scope Driver.lvlib" Type="Library" URL="../Scope Driver/LabNation Scope Driver.lvlib"/>
+		<Item Name="SmartScopeDriver.lvclass" Type="LVClass" URL="../ESF Driver/SmartScopeDriver.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -58,6 +59,9 @@
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+			</Item>
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="Session - Root.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/_Session Fwk/Session - Root.lvclass"/>
 			</Item>
 			<Item Name="DeviceInterface.dll" Type="Document" URL="../../../../../../../../../Program Files (x86)/LabNation/SmartScope/DeviceInterface.dll"/>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
