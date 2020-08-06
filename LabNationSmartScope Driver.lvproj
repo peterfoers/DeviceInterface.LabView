@@ -24,6 +24,7 @@
 		</Item>
 		<Item Name="LabNation Scope Driver.lvlib" Type="Library" URL="../Scope Driver/LabNation Scope Driver.lvlib"/>
 		<Item Name="SmartScopeDriver.lvclass" Type="LVClass" URL="../ESF Driver/SmartScopeDriver.lvclass"/>
+		<Item Name="Example.vi" Type="VI" URL="../ESF Driver/Example/Example.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
